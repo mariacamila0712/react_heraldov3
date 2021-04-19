@@ -1,5 +1,7 @@
-import Footer from './components/Footer';
 import './App.css';
+import Header from './Components/Header';
+import Navbar from './Components/Navbar';
+import Footer from './Components/Footer';
 
 function App() {
     return ( <
@@ -7,10 +9,13 @@ function App() {
         <
         header className = "App-header" >
         <
+        Navbar / >
+        <
+        Header titulo = "EL HERALDO" / > <
         Footer / >
         <
-        /header> <
-        /div>
+        /header> < /
+        div >
     );
 }
 
