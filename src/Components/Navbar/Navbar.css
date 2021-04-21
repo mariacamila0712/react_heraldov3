@@ -1,0 +1,16 @@
+.Navbar1{
+    font-size: 16px;
+    color:rgb(17, 16, 16);
+    font-family: 'candara', courier, sans-serif;
+}
+
+.buttonSearch{
+    background-color: slategray
+}
+.search1{
+    font-size: 16px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.search{
+    box-align: right;
+}
